@@ -1,3 +1,7 @@
+# 1.0.0
+
+- Identical to 0.7.0
+
 # 0.7.0
 
 - [BC] Synchronize with SlmQueue release 0.7.0 which adds the ability to store binary data in job content
